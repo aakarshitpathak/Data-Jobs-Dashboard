@@ -32,13 +32,16 @@ This project explores the global data job market to understand where the opportu
 
 ---
 
+
 ## 🖼️ Preview
 
-```
-/Screenshots
-  ├── dashboard-overview.png
-  └── job-title-drillthrough.png
-```
+### Data Jobs Dashboard
+
+![Data Jobs Dashboard](Screenshots/dashboard-overview.png.png)
+
+### Job Title Drill Through
+
+![Job Title Drill Through](Screenshots/job-title-drillthrough.png.png)
 
 ---
 
@@ -52,7 +55,7 @@ This project explores the global data job market to understand where the opportu
 
 **Key fields used across visuals:** `job_title_short`, `job_country`, `job_via` (posting platform), `job_schedule_type`, `job_work_from_home`, `salary_hour_avg`, `salary_year_avg`, `job_posted_date` (Year/Quarter/Month/Day hierarchy), plus a custom `Salary Star Rating` measure.
 
-> 📁 Dataset: this project uses a "job_postings_flat.csv" style dataset (https://www.kaggle.com/datasets/wandererfakeer/data-jobs-by-lukebarousse)).
+> 📁 Dataset: this project uses a "job_postings_flat.csv" style dataset (https://www.kaggle.com/datasets/wandererfakeer/data-jobs-by-lukebarousse).
 
 ---
 
